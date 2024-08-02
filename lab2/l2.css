@@ -1,0 +1,8 @@
+select {
+    box-sizing: border-box;
+    background-color: #cbe7ff;
+    margin-top:5px;
+    border-color: transparent;
+    border-style: solid;
+    border-spacing: 15px;
+ }
